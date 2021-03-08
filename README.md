@@ -4,7 +4,8 @@ Colored OpenType-SVG Mahjong font based on [FluffyStuff/riichi-mahjong-tiles](ht
 ![Preview](preview.png)
 
 ## Usage
-[U+1F000 → U+1F021 and U+1F02C → U+1F02E](https://en.wikipedia.org/wiki/Mahjong_Tiles_(Unicode_block)). The last three are akadora, undefined in Unicode (sue me). Flowers, seasons, etc. are not supported, but feel free to PR.
+### [Download OTF](https://github.com/kfarwell/Mahjong-Colored/releases/latest/download/Mahjong.Colored.otf)
+Glyphs: [U+1F000 → U+1F021 and U+1F02C → U+1F02E](https://en.wikipedia.org/wiki/Mahjong_Tiles_(Unicode_block)). The last three are akadora, undefined in Unicode (sue me). Flowers, seasons, etc. are not supported, but feel free to PR.
 
 U+1F004 is also an emoji. You can specify the text version with U+FE0F VS16 or the emoji with U+FE0E VS15.
 
